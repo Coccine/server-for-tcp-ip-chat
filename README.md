@@ -1,1 +1,2 @@
-# server-for-tcp-ip-chat
+# server-for-tcp-ip-chat (multi-thread)
+         # in developing
